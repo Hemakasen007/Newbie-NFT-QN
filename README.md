@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Newbie NFT's
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Mint your very own Newbie NFT's. Hurry only a few slots remain!
 
-Try running some of the following tasks:
 
+Project created with hardhat. Clone and npm install 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+npm i
 ```
+Contributions are welcome ! 
